@@ -13,7 +13,8 @@ My goal is to bridge **traditional IT infrastructure** with **modern AI-driven t
  
 ## 🛠️ Technical Skills
  * IT Support & System Maintenance
-* Linux fundamentals
+* Linux Ubuntu
+* Cisco Packet Tracer
 * Prompt Engineering & AI Tool Usage
  
 ---
