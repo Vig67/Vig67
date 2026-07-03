@@ -36,7 +36,7 @@ An AI-powered financial companion app to help users manage and understand their 
  
 - **Operating Systems:** Ubuntu (Linux)
 - **Networking:** Cisco Packet Tracer, Communications Networks
-- **Version Control:** Git, GitHub
+- **Version Control:** GitHub
 - **AI Tools:** Exploring AI development through the CAPACITI programme
  
 ---
