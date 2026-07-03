@@ -1,43 +1,60 @@
-# 👋 Hi, I'm a Junior Network Administrator & Aspiring Prompt Engineer
- ---
+# Hi there, I'm Victoria Manenje 👋
  
-## 🚀 About Me
+Aspiring IT Support Analyst with a National Diploma in Information Technology (Communications Networks) from Tshwane University of Technology. Skilled in networking concepts and troubleshooting, with a growing interest in Artificial Intelligence.
  
-I am a Junior Network Administrator with a strong understanding of networking fundamentals, IT systems, and technical support environments.
- 
-Alongside this, I am actively developing skills in **Prompt Engineering and AI systems**, focusing on how artificial intelligence can be effectively used to solve problems, automate tasks, and improve productivity.
- 
-My goal is to bridge **traditional IT infrastructure** with **modern AI-driven technologies**.
+- 🤖 Currently learning: **Artificial Intelligence**, through the CAPACITI programme
+- 💻 Currently specialising in: **Networking, C++, and Linux (Ubuntu) environments**
+- 🎯 Aspiring: **IT Support Analyst**
+- ⚡ Passionate about technology, continuous learning, and building a career in IT support
  
 ---
  
-## 🛠️ Technical Skills
- * IT Support & System Maintenance
-* Linux Ubuntu
-* Cisco Packet Tracer
-* Prompt Engineering & AI Tool Usage
+## 🛠 Skills / Tech Stack
+ 
+**Languages:** C++
+ 
+**Networking:** Cisco Packet Tracer
+ 
+**Cloud / DevOps:** Ubuntu (Linux), GitHub
  
 ---
  
-## 🌐 Core Competencies
+## 🚀 Featured Projects
  
-* Network configuration & troubleshooting
-* System support and diagnostics
-* AI prompt design and optimization
-* Problem-solving using technology
-* Technical documentation and communication 
----
+### 📧 [Mail Studio](https://velvet-mail.lovable.app)
+A mail/email design and management application.
  
-## 🌱 Currently Learning
- * Cybersecurity fundamentals
-* AI workflow automation
-* Prompt engineering techniques
-* Machine learning basics
+### ⭐ [ReviewRadar AI](https://reviewradar-ai-ejvt4o7wzwuoidnq8u4k5y.streamlit.app/)
+An AI-powered application for analysing and summarising customer reviews, built with Streamlit.
+ 
+### 💰 [FinSense AI](https://finsense-ai-companion-48.lovable.app)
+An AI-powered financial companion app to help users manage and understand their finances.
  
 ---
  
-## 🎯 Career Objective
+## ☁️ Tools & Platform Experience
  
-To grow into a skilled IT professional specializing in network infrastructure while building strong capabilities in AI and prompt engineering, enabling efficient and intelligent technology solutions.
+- **Operating Systems:** Ubuntu (Linux)
+- **Networking:** Cisco Packet Tracer, Communications Networks
+- **Version Control:** Git, GitHub
+- **AI Tools:** Exploring AI development through the CAPACITI programme
  
 ---
+ 
+## 📜 Certificates
+ 
+- **Google AI Essentials Specialization** — Coursera
+- **Artificial Intelligence (AI) Bootcamp** — Coursera
+- **Professional Development** — Coursera
+ 
+---
+ 
+## 📫 Contact Me
+ 
+- 🔗 LinkedIn: [linkedin.com/in/victoria-manenje-87335b282](https://linkedin.com/in/victoria-manenje-87335b282)
+- 💻 GitHub: [github.com/vig67](https://github.com/vig67)
+ 
+---
+ 
+⭐️ Thanks for visiting my profile — always open to connecting and learning together!
+ 
