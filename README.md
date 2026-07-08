@@ -15,7 +15,7 @@ Aspiring IT Support Analyst with a National Diploma in Information Technology (C
  
 **Networking:** Cisco Packet Tracer
  
-**Cloud / DevOps:** Ubuntu (Linux), GitHub
+**Cloud / DevOps:** Ubuntu (Linux)
  
 ---
  
